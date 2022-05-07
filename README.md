@@ -1,2 +1,2 @@
-# Avanced Solidity
+# Advanced Solidity
 A Simple Solidity Crowdsale Contract
